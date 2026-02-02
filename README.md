@@ -2,8 +2,7 @@
 
 ![alt text](./img/Tunneling%20and%20Port%20Forwarding.png)
 
-> 📘 A complete **hands-on guide** to **Tunneling, SSH Port Forwarding, Pivoting, and ProxyChains**, designed for  
-> **Cybersecurity** and **Penetration Testing** labs.
+> 📘 A complete **hands-on guide** to **Tunneling, SSH Port Forwarding, Pivoting, and ProxyChains**, designed for **Cybersecurity** and **Penetration Testing** labs.
 
 ---
 
